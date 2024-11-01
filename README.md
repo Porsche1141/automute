@@ -1,0 +1,2 @@
+# automute
+auto
